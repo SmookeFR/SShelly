@@ -1,2 +1,2 @@
 # SShelly
-SSH Client written in Swift
+SSH Client written in Swift by Smooke.
